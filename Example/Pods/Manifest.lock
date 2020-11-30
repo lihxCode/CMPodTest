@@ -1,0 +1,16 @@
+PODS:
+  - CMPodTest (0.1.0)
+
+DEPENDENCIES:
+  - CMPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  CMPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMPodTest: 5db62f949a0d55ed60ceceb7f48811ed6505e575
+
+PODFILE CHECKSUM: 76f9d2bb34d3adc4a7375adbd1d976d46e89e9b1
+
+COCOAPODS: 1.9.1

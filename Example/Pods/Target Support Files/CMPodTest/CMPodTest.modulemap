@@ -1,0 +1,6 @@
+framework module CMPodTest {
+  umbrella header "CMPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
